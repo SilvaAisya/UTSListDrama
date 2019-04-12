@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListDrama</string>
+    <string name="title_activity_tambah_drama">TambahDramaActivity</string>
+</resources>
